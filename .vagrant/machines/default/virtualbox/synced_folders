@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/adamtachauer-yates/wordpress","disabled":false},"/vagrant/wordpress":{"owner":"www-data","mount_options":["dmode=775","fmode=774"],"guestpath":"/vagrant/wordpress","hostpath":"/Users/adamtachauer-yates/wordpress/wordpress","disabled":false}}}
